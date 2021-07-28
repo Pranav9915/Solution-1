@@ -1,3 +1,0 @@
-import calendar
-print("The 4th Month of the year is: ")
-calendar.prmonth(2020, 4, 2, 1)
